@@ -1,0 +1,24 @@
+{
+  "name": "desafiopb_automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asoaresbio/desafioPB_automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asoaresbio/desafioPB_automacao/issues"
+  },
+  "homepage": "https://github.com/asoaresbio/desafioPB_automacao#readme",
+  "devDependencies": {
+    "chai-json-schema": "^1.5.1",
+    "cypress": "^14.5.1"
+  }
+}
