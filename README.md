@@ -5,7 +5,7 @@ Este projeto contém automações de testes para os dois desafios solicitados no
 1. **Testes de interface web (desafio de seletores)**
 2. **Testes de API REST (validação dos verbos HTTP)**
 
-        A automação foi desenvolvida utilizando Cypress e JavaScript. Os testes dos verbos de API foram incluídos na presente stack de testes para facilitar a execução.
+    A automação foi desenvolvida utilizando Cypress e JavaScript. Os testes dos verbos de API foram incluídos na presente stack de testes para facilitar a execução.
 -------
 
 # Tenologias utilizadas nessa stack
