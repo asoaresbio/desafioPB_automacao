@@ -1,5 +1,3 @@
-# desafioPB_automacao
-
 # Desafio técnico Parana Banco - Automação de Testes com Cypress
 
 Este projeto contém automações de testes para os dois desafios solicitados no documento:
@@ -7,8 +5,8 @@ Este projeto contém automações de testes para os dois desafios solicitados no
 1. **Testes de interface web (desafio de seletores)**
 2. **Testes de API REST (validação dos verbos HTTP)**
 
-A automação foi desenvolvida utilizando **Cypress** e **JavaScript**. Os testes dos verbos de API foram incluídos na presente stack de testes para facilitar a execução.
----
+**A automação foi desenvolvida utilizando Cypress e JavaScript. Os testes dos verbos de API foram incluídos na presente stack de testes para facilitar a execução.**
+----
 
 # Tenologias utilizadas nessa stack
 
@@ -17,9 +15,10 @@ A automação foi desenvolvida utilizando **Cypress** e **JavaScript**. Os teste
 - Mocha + Chai (integrado ao Cypress)
 - Node.js (mínimo v14+ recomendado)
 
----
+-----
 
 # Estrutura 
+
 ├── cypress
 │ ├── e2e
 │ │ ├── web_desafio.cy.js # Testes do site Herokuapp
@@ -30,7 +29,7 @@ A automação foi desenvolvida utilizando **Cypress** e **JavaScript**. Os teste
 ├── cypress.config.js
 ├── package.json
 ├── README.md # presente arquivo
-
+-------
 
 # Instalando as dependencias necessárias para rodar os testes
 
