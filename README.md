@@ -25,6 +25,8 @@ Este projeto contém automações de testes para os dois desafios solicitados no
 
     npm instal cypres --save-dev
 
+    npm install --save-dev chai-json-schema
+
     npm cypress open
 
     npx cypress run
